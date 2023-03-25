@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Line</title>
+  </head>
+  <body>
+    <canvas
+      id="myCanvas"
+      width="300"
+      height="300"
+      style="border: 5px solid red"
+    ></canvas>
+    <script>
+      const canvas = document.getElementById("myCanvas");
+      const context = canvas.getContext("2d");
+      context.lineWidth = 3;
+      context.strokeStyle = "black";
+      context.lineCap = "round";
+      context.moveTo(0, 50);
+      context.lineTo(200, 100);
+      context.stroke();
+    </script>
+    <div style="margin-left: 130px">
+      <h2>Line</h2>
+    </div>
+  </body>
+</html>

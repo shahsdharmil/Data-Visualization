@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Circle</title>
+  </head>
+  <body>
+    <canvas
+      id="myCanvas"
+      width="300"
+      height="300"
+      style="border: 5px solid #F55050"
+    ></canvas>
+    <script>
+      const canvas = document.getElementById("myCanvas");
+      const context = canvas.getContext("2d");
+      context.lineWidth = 3;
+      context.strokeStyle = "black";
+      context.lineCap = "round";
+      context.arc(150,150,70,0,2*Math.PI);
+      context.fillStyle="#F48484";
+      context.fill();
+      context.stroke();
+    </script>
+    <div style="margin-left: 120px">
+      <h2>Circle</h2>
+    </div>
+  </body>
+</html>

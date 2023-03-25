@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>House</title>
+  </head>
+
+  <body>
+    <canvas
+      id="myCanvas"
+      width="600"
+      height="600"
+      style="border: 5px solid rgb(0, 0, 0)"
+    ></canvas>
+    <script>
+      var canvas = document.getElementById("myCanvas");
+      var context = canvas.getContext("2d");
+
+      // Sun
+      context.beginPath();
+      context.arc(450, 100, 50, 0, 2 * Math.PI);
+      context.fillStyle = "#FFB26B";
+      context.fill();
+
+      context.beginPath();
+      context.moveTo(450, 50);
+      context.lineTo(450, 25);
+      context.moveTo(500, 100);
+      context.lineTo(525, 100);
+      context.moveTo(450, 150);
+      context.lineTo(450, 175);
+      context.moveTo(400, 100);
+      context.lineTo(375, 100);
+      context.stroke();
+
+      // House
+      context.beginPath();
+      context.rect(150, 300, 200, 200);
+      context.fillStyle = "#82AAE3";
+      context.fill();
+
+      context.beginPath();
+      context.rect(210, 400, 80, 100);
+      context.fillStyle = "#AD8E70";
+      context.fill();
+
+      context.beginPath();
+      context.moveTo(100, 300);
+      context.lineTo(400, 300);
+      context.lineTo(250, 150);
+      context.lineTo(100, 300);
+      context.fillStyle = "#BFEAF5";
+      context.fill();
+
+      context.beginPath();
+      context.moveTo(0, 500);
+      context.lineTo(600, 500);
+      context.rect(0, 500, 600, 100);
+      context.fillStyle = "#03C988";
+      context.fill();
+      context.stroke();
+    </script>
+    <div style="margin-left: 250px">
+      <h2>House</h2>
+    </div>
+  </body>
+</html>
