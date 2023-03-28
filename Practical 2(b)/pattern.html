@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pattern</title>
+  </head>
+
+  <body>
+    <canvas
+      id="polygon"
+      width="415"
+      height="415"
+      style="border: 4px solid black"
+    >
+      <img src="https://i.stack.imgur.com/xc1o4.png" id="img" />
+    </canvas>
+    <script>
+      var canvas = document.getElementById("polygon");
+      var ctx = canvas.getContext("2d");
+      var img = document.getElementById("img");
+      var pattern = ctx.createPattern(img, "repeat");
+
+      ctx.rect(0, 0,415, 415);
+      ctx.fillStyle = pattern;
+      ctx.fill();
+    </script>
+  </body>
+</html>

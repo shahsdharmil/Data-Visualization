@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smiley Face</title>
+  </head>
+
+  <body>
+    <canvas
+      id="smiley"
+      width="500"
+      height="500"
+      style="border: 2px solid black"
+    ></canvas>
+    <script>
+      var canvas = document.getElementById("smiley");
+      var ctx = canvas.getContext("2d");
+      var len = canvas.height;
+
+      ctx.beginPath();
+      ctx.arc(len * 0.5, len * 0.5, len * 0.4, 0, 2 * Math.PI);
+      ctx.moveTo(len * 0.3, len * 0.4);
+      ctx.fillStyle = "yellow";
+      ctx.fill();
+      ctx.stroke();
+
+      ctx.beginPath();
+      ctx.arc(len * 0.26, len * 0.4, len * 0.04, 0, 2 * Math.PI);
+      ctx.fillStyle = "black";
+      ctx.fill();
+      ctx.stroke();
+
+      ctx.beginPath();
+      ctx.moveTo(len * 0.78, len * 0.4);
+      ctx.arc(len * 0.74, len * 0.4, len * 0.04, 0, 2 * Math.PI);
+      ctx.fillStyle = "black";
+      ctx.fill();
+      ctx.stroke();
+
+      ctx.beginPath();
+      ctx.moveTo(len * 0.26, len * 0.5);
+      ctx.arc(len * 0.5, len * 0.5, len * 0.24, 0, Math.PI);
+      ctx.fillStyle = "red";
+      ctx.fill();
+      ctx.stroke();
+    </script>
+  </body>
+</html>
