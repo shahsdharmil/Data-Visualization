@@ -12,3 +12,6 @@ Display a pattern inside a Rectangle
 Draw a formatted text inside canvas
 Draw a Smiley
 Draw a polygon
+
+Practical 2(c) 
+Develop the Different basic Graphical Shapes with styles using HTML5 SVG ( Line, Circle, Ellipse , Rectangle)
