@@ -22,3 +22,12 @@ Demonstrate polyline element
 Demonstrate path element
 Demonstrate radial gradient
 Demonstrate linear gradient
+
+Practical 3(a)
+Develop Following Program using HTML5 and Canvas.js library
+a. Showing the data as a column chart (simple)
+b. Showing the data as a stacked column chart
+c. Showing the Data as a column chart for four age group
+d. Showing the data as a Line chart (single, fewer and multiple lines)
+e. Showing the data as a Pie Chart (single and multiple pie)
+f. Showing the data as a Bar Chart (Simple and multiple)
