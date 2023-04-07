@@ -31,3 +31,5 @@ c. Showing the Data as a column chart for four age group
 d. Showing the data as a Line chart (single, fewer and multiple lines)
 e. Showing the data as a Pie Chart (single and multiple pie)
 f. Showing the data as a Bar Chart (Simple and multiple)
+
+Practical 3(b)
