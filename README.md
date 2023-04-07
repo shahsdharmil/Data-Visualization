@@ -1,6 +1,9 @@
 # Data-Visualization
 Data-Visualization Codes for Sem-6
 
+Practical 1
+Setup Environment for all the Tools
+
 Practical 2(a)
 Develop different graphical shapes using HTML5 CANVAS
 Draw Line, Rectangle, Circle, Arc, House. Apply different styles.
