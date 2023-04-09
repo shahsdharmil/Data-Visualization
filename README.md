@@ -36,3 +36,5 @@ e. Showing the data as a Pie Chart (single and multiple pie)
 f. Showing the data as a Bar Chart (Simple and multiple)
 
 Practical 3(b)
+(Data provided in the code)
+1. Write a program to display bubble chart with data given below. 
