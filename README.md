@@ -39,3 +39,4 @@ Practical 3(b)
 (Data provided in the code)
 1. Write a program to display bubble chart with data given below. 
 2. Write a program to display doughnut chart to display Percentage Of Email Ctaegories such as Inbox, Archives, Labels, Drafts, Trash, and Spam. Use Animation, Labelling and tooltip message.
+3. Write a program to display scatter point chart for the data given.
