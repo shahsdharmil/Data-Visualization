@@ -43,3 +43,6 @@ Practical 3(b)
 4. Write a program to display Pie chart for State Operating Funds with the data given.
 5. Write a program to display Line Chart for "Game of Thrones Viewers of the First
 Airing on HBO” with the data given below
+
+Practical 4: Develop Following Program Using HTML5 ,JavaScript, jQuery
+a. Develop the simple bar chart using HTML5 CANVAS (i.e take data directly in an Array)
