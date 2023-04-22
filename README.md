@@ -48,3 +48,4 @@ Practical 4: Develop Following Program Using HTML5 ,JavaScript, jQuery
 a. Develop the simple bar chart using HTML5 CANVAS (i.e take data directly in an Array)
 b. Read the data .txt file and draw Data Table
 c. Read the data .txt file and draw Simple Bar Chart
+d. Read the data .csv file and draw Data Table
