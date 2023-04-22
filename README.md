@@ -49,3 +49,4 @@ a. Develop the simple bar chart using HTML5 CANVAS (i.e take data directly in an
 b. Read the data .txt file and draw Data Table
 c. Read the data .txt file and draw Simple Bar Chart
 d. Read the data .csv file and draw Data Table
+e. Read the data .csv file and draw Column Bar Chart
