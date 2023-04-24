@@ -44,9 +44,11 @@ Practical 3(b)
 5. Write a program to display Line Chart for "Game of Thrones Viewers of the First
 Airing on HBO” with the data given below
 
-Practical 4: Develop Following Program Using HTML5 ,JavaScript, jQuery
+Practical 4:
+Develop Following Program Using HTML5 ,JavaScript, jQuery
 a. Develop the simple bar chart using HTML5 CANVAS (i.e take data directly in an Array)
 b. Read the data .txt file and draw Data Table
 c. Read the data .txt file and draw Simple Bar Chart
 d. Read the data .csv file and draw Data Table
 e. Read the data .csv file and draw Column Bar Chart
+f. Read the data XML file and draw Data Table
