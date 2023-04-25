@@ -53,3 +53,4 @@ d. Read the data .csv file and draw Data Table
 e. Read the data .csv file and draw Column Bar Chart
 f. Read the data XML file and draw Data Table
 g. Read the data XML file and draw Simple Pie Chart
+h. Read JSON Data and draw Data Table
