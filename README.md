@@ -60,3 +60,4 @@ Practical 5(a):
 Using CSS and jQuery, style the Table given below to assure maximum readability 
 
 Practical 5(b):
+Demonstrate the use of jQuery UI ThemeRoller with DataTables
