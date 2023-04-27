@@ -56,5 +56,7 @@ g. Read the data XML file and draw Simple Pie Chart
 h. Read JSON Data and draw Data Table
 i. Read JSON Data and draw Simple Chart
 
-Practical 5:
+Practical 5(a):
 Using CSS and jQuery, style the Table given below to assure maximum readability 
+
+Practical 5(b):
