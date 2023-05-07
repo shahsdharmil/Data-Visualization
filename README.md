@@ -13,21 +13,21 @@ Develop Different Advanced Graphical Shapes using HTM5 CANVAS
 Draw Shapes by applying Linear Gradient, Radial Gradient.
 Display a pattern inside a Rectangle
 Draw a formatted text inside canvas
-Draw a Smiley
-Draw a polygon
+Draw a Smiley.
+Draw a polygon.
 
 Practical 2(c) 
 Develop the Different basic Graphical Shapes with styles using HTML5 SVG ( Line, Circle, Ellipse , Rectangle)
 
 Practical 2(d) 
-Develop the Different Advanced Graphical Shapes using HTML5
-Demonstrate polyline element
-Demonstrate path element
-Demonstrate radial gradient
+Develop the Different Advanced Graphical Shapes using HTML5.
+Demonstrate polyline element.
+Demonstrate path element.
+Demonstrate radial gradient.
 Demonstrate linear gradient.
 
 Practical 3(a)
-Develop Following Program using HTML5 and Canvas.js library
+Develop Following Program using HTML5 and Canvas.js library.
 a. Showing the data as a column chart (simple)
 b. Showing the data as a stacked column chart
 c. Showing the Data as a column chart for four age group
