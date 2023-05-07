@@ -24,7 +24,7 @@ Develop the Different Advanced Graphical Shapes using HTML5
 Demonstrate polyline element
 Demonstrate path element
 Demonstrate radial gradient
-Demonstrate linear gradient
+Demonstrate linear gradient.
 
 Practical 3(a)
 Develop Following Program using HTML5 and Canvas.js library
