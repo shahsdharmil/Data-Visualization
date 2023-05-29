@@ -22,7 +22,7 @@ Develop the Different basic Graphical Shapes with styles using HTML5 SVG ( Line,
 Practical 2(d) 
 - Develop the Different Advanced Graphical Shapes using HTML5.
 - Demonstrate polyline element.
-Demonstrate path element.
+- Demonstrate path element.
 Demonstrate radial gradient.
 Demonstrate linear gradient.
 
