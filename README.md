@@ -23,7 +23,7 @@ Practical 2(d)
 - Develop the Different Advanced Graphical Shapes using HTML5.
 - Demonstrate polyline element.
 - Demonstrate path element.
-Demonstrate radial gradient.
+- Demonstrate radial gradient.
 Demonstrate linear gradient.
 
 Practical 3(a)
