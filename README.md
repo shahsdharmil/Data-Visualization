@@ -5,7 +5,7 @@ Practical 1
 Setup Environment for all the Tools.
 
 Practical 2(a)
-Develop different graphical shapes using HTML5 CANVAS
+Develop different graphical shapes using HTML5 CANVAS.
 Draw Line, Rectangle, Circle, Arc, House. Apply different styles.
 
 Practical 2(b) 
