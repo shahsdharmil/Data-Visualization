@@ -1,5 +1,5 @@
 # Data-Visualization
-Data-Visualization Codes for Sem-6
+Data-Visualization Codes for Sem-6.
 
 Practical 1
 Setup Environment for all the Tools
