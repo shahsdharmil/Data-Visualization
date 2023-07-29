@@ -17,7 +17,7 @@ Draw a Smiley.
 Draw a polygon.
 
 Practical 2(c) 
-Develop the Different basic Graphical Shapes with styles using HTML5 SVG ( Line, Circle, Ellipse , Rectangle)
+Develop the Different basic Graphical Shapes with styles using HTML5 SVG ( Line, Circle, Ellipse , Rectangle).
 
 Practical 2(d) 
 - Develop the Different Advanced Graphical Shapes using HTML5.
