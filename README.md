@@ -41,8 +41,7 @@ Practical 3(b)
 2. Write a program to display doughnut chart to display Percentage Of Email Ctaegories such as Inbox, Archives, Labels, Drafts, Trash, and Spam. Use Animation, Labelling and tooltip message.
 3. Write a program to display scatter point chart for the data given.
 4. Write a program to display Pie chart for State Operating Funds with the data given.
-5. Write a program to display Line Chart for "Game of Thrones Viewers of the First
-Airing on HBO” with the data given below.
+5. Write a program to display Line Chart for "Game of Thrones Viewers of the First Airing on HBO” with the data given below.
 
 Practical 4:
 Develop Following Program Using HTML5 ,JavaScript, jQuery.
